@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Bottombaritemone"
+        android:icon="@drawable/ic_home"
+        android:title="News"
+        >
+        </item>
+
+    <item android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/ic_add"
+        android:title="New Post">
+    </item>
+
+    <item android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/ic_like"
+        android:title="Notifications">
+    </item>
+
+    <item android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/ic_post"
+        android:title="Profile">
+    </item>
+
+</menu>
